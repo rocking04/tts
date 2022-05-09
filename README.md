@@ -5,7 +5,7 @@
 第二步，打开并登录（注册采用你的邮箱，最后需要手机验证)
 
 
-https://veecel.com
+https://vercel.com
 
 第三步，网页翻译后   新建项目   选择GITHUB登录  然后选择你的GITHUB的上面的项目
 
